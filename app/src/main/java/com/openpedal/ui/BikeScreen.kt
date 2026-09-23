@@ -100,7 +100,7 @@ private fun Header(state: ConnectionState) {
     ) {
         Column {
             Text(
-                text = "YESOUL Bike",
+                text = "OpenPedal",
                 style = MaterialTheme.typography.headlineSmall,
                 fontWeight = FontWeight.Bold,
             )
