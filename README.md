@@ -14,13 +14,10 @@ notifications alongside the bike data.
 
 ## Screenshots
 
-### Disconnected
-
-![OpenPedal disconnected](docs/screenshots/openpedal_0.jpg)
-
-### Connected
-
-![OpenPedal connected](docs/screenshots/openpedal_1.jpg)
+<p align="center">
+  <img src="docs/screenshots/openpedal_0.jpg" alt="OpenPedal disconnected" width="48%">
+  <img src="docs/screenshots/openpedal_1.jpg" alt="OpenPedal connected" width="48%">
+</p>
 
 Build the Google debug variant with:
 
